@@ -311,6 +311,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dev](https://devpalwar.vercel.app)
 - [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com/)
 - [Dewald Els](https://dewaldels.com)
+- [Dhanesh Saini](https://dhanesh.vercel.app)
 - [Dhananjay Shahane](https://dhananjay-dev.vercel.app)
 - [Dhanraj Patil](https://dhanrajp.vercel.app/) [Front-End Web Developer]
 - [Dhanush Nehru](https://chat-portfolio-dhanushnehru.netlify.app/) [Unique Whatsapp Portfolio]
